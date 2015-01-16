@@ -100,4 +100,4 @@ if (!shell_exec($cmd)) {
 	exit();
 }
 
-echo $msg[0];                                                                                                                  56,3-17       To
+echo $msg[0];
